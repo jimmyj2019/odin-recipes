@@ -1,0 +1,16 @@
+#mainheader {
+color:white;
+background-color: rgb(240, 13, 13);
+border-color: blue;
+}
+
+#text {
+    text-transform: uppercase;
+}
+#logo {
+     align-content: center;
+}
+
+img{
+    border-top-color: aliceblue;
+}
